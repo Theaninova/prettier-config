@@ -2,7 +2,14 @@
   "name": "@theaninova/prettier-config",
   "version": "1.0.0",
   "main": "index.json",
-  "repository": "git@github.com:theaninova/prettier-config.git",
-  "author": "Thea Schöbl <dev@theaninova.de",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/theaninova/prettier-config.git"
+  },
+  "author": "Thea Schöbl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theaninova/prettier-config/issues"
+  },
+  "homepage": "https://github.com/theaninova/prettier-config#readme"
 }
