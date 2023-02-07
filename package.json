@@ -1,0 +1,8 @@
+{
+  "name": "@theaninova/prettier-config",
+  "version": "1.0.0",
+  "main": "index.json",
+  "repository": "git@github.com:theaninova/prettier-config.git",
+  "author": "Thea Schöbl <dev@theaninova.de",
+  "license": "MIT"
+}
